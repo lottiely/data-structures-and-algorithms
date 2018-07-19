@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 Implementations of data structures and algorithms
 
-##Languages: 
+## Languages: 
 Java
 
-##Included Data Structure Implementations:
+## Included Data Structure Implementations:
