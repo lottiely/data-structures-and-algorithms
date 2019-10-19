@@ -2,10 +2,10 @@
 Implementations of data structures and algorithms
 
 ## Languages: 
-Java
+Java, Javascript
 
 ## Included Data Structure Implementations:
-Linked List
+Linked List (Java, Javascript)
 
 ## Included Algorithm Implementations: 
 Bubble Sort
@@ -48,6 +48,7 @@ Locates and removes the input node from the linked list.
 ### removeDups()
 #### Description:
 Will locate all duplicates and remove them. Time complexity is pretty bad at O(n^2).
+Not in the Javascript version.
 
 ### main
 #### Desciption:
