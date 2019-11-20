@@ -61,7 +61,7 @@ Implementation of a min-heap
 
 ---
 
-# Bubble Sort
+# BubbleSort
 Implemented through the sort method
 ## Class Variables:
 `boolean swapped`
@@ -79,7 +79,7 @@ Prints out a given array and then calls the sort method and then prints out the 
 
 ---
 
-# Insertion Sort
+# InsertionSort
 Implemented through the sort method
 
 ## Methods
@@ -94,7 +94,7 @@ Prints out a given array and then calles the sort method and then prints out the
 
 ---
 
-# Selection Sort
+# SelectionSort
 Implemented through the sort method
 ## Class Variables:
 `int min`
